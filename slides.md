@@ -25,13 +25,13 @@ transition: slide-left
 css: unocss
 ---
 
-# Welcome to Slidev
+# Welcome to My Space
 
-Presentation slides for developers
+幼儿园特色课程建设——以莲花课程为例
 
 <div class="pt-12">
   <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
-    Press Space for next page <carbon:arrow-right class="inline"/>
+    下一页 <carbon:arrow-right class="inline"/>
   </span>
 </div>
 
@@ -53,7 +53,7 @@ The last comment block of each slide will be treated as slide notes. It will be 
 transition: fade-out
 ---
 
-# What is Slidev?
+# 什么是幼儿园特色课程?
 
 Slidev is a slides maker and presenter designed for developers, consist of the following features
 
